@@ -1,0 +1,13 @@
+name = "Item Flicker"
+filename = "itemflicker-neoforge-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/v4NYoiSQ/versions/hof6aOka/itemflicker-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "f3b68dfd4a961dac5a9318ec139a06031e709f783d5148b81e1d9e05481f2081e1cbbf71ab04ef34960ad48f614eb78793c36b924307eead7e09b7cf09e14f72"
+
+[update]
+[update.modrinth]
+mod-id = "v4NYoiSQ"
+version = "hof6aOka"

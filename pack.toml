@@ -1,0 +1,13 @@
+name = "TSMC Craft 21 Port"
+author = "MikaAtom"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6458b53bbd3c79e576f5d3cf8e7eec0fec0ba77391aa00236b3facfcae5fecba"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"

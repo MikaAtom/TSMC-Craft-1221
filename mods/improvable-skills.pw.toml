@@ -1,0 +1,13 @@
+name = "Improvable Skills"
+filename = "ImprovableSkills-1.21-21.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9fT7HUaI/versions/3gHksLPd/ImprovableSkills-1.21-21.0.2.jar"
+hash-format = "sha512"
+hash = "5a1190af80038cd2169871923a08b5cad6180754af3e970c0ba5f18a5b8f8f381ad308724cdebdd117ce7dd8b3ab33c1154a40a41d4fa45d62d268f14816a9bd"
+
+[update]
+[update.modrinth]
+mod-id = "9fT7HUaI"
+version = "3gHksLPd"

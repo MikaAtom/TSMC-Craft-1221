@@ -1,0 +1,13 @@
+name = "Jackpot"
+filename = "jackpot-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2iZthmI0/versions/XjP9rEKg/jackpot-1.0.1.jar"
+hash-format = "sha512"
+hash = "9d610d075a35cac46ff54a72c77dfe1e3218abc9a517255c223442646efae83175e24d6b9fa930e1151f5287daa79f4734103f7ea7d16b7ebfb2311c6ac4fda9"
+
+[update]
+[update.modrinth]
+mod-id = "2iZthmI0"
+version = "XjP9rEKg"

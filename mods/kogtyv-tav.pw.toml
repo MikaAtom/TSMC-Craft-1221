@@ -1,0 +1,13 @@
+name = "kogtyv-Towny and Village"
+filename = "kogtyv-TownyAndVillage-1.5.1-Neoforge-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xXClL8T5/versions/X7Oki8Lq/kogtyv-TownyAndVillage-1.5.1-Neoforge-1.21.jar"
+hash-format = "sha512"
+hash = "bc0349bdf46a39716a4ad1547e454df9be742e39b4c64a7f5efd9c79fbc4110491d031247ddeaf1f75c8732389966eea6ee05ec0d739e588b0e2910dd261d70b"
+
+[update]
+[update.modrinth]
+mod-id = "xXClL8T5"
+version = "X7Oki8Lq"
