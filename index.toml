@@ -26,6 +26,11 @@ hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
 
 [[files]]
+file = "mods/advancement-screenshot.pw.toml"
+hash = "9241ef314e154349a65790430e9bf318d35ae3fddb14f1391bde57f9ff1b4a60"
+metafile = true
+
+[[files]]
 file = "mods/almostunified.pw.toml"
 hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
 metafile = true
