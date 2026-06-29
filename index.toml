@@ -496,11 +496,6 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "b26f156be8a05063a0b08cb1afe7c76d392db90a9544f0500bd5c8821196bbe8"
-metafile = true
-
-[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
@@ -583,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "10e2d5565e299d0fafa79e7c949961bf692d9a15b5de146b2905ea7df0987d29"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "acafcc8edd4ee740a6ae420dcd4bf988dc316323b9981f9c6b0095294fa407f6"
 metafile = true
 
 [[files]]
@@ -758,11 +758,6 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "5b9f71bc9ae06fe7736cc500086ce29f87bf4414134133626e2b89462ee35767"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
 
 [[files]]
