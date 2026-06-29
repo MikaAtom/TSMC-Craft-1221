@@ -526,11 +526,6 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "mods/littletiles.pw.toml"
-hash = "bcac012d94be30071c5f12c246929802d95fb7877451d417fa0f4d4bc0570196"
-metafile = true
-
-[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
