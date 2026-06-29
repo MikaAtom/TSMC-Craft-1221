@@ -1,0 +1,13 @@
+name = "Roamers"
+filename = "roamers_neoforge_v2.1_1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d18936c087867dedb01316683aff0bdeea2bf55f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5815815
+project-id = 724447

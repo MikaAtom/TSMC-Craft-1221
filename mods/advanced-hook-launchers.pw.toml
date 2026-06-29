@@ -1,0 +1,13 @@
+name = "Advanced Hook Launchers"
+filename = "AdHooks-1.21.1-11.1.1.1-NeoForge-build.0821.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8IglZRr/versions/v61aYHS7/AdHooks-1.21.1-11.1.1.1-NeoForge-build.0821.jar"
+hash-format = "sha512"
+hash = "4d486bbf344849513bd30b0a36eecaddcebb8a18cde75045fa94ff3a981e04fd28876475de41587d24c6ada0867adbaa4e988dcce0837039ff0c95a1d9c81772"
+
+[update]
+[update.modrinth]
+mod-id = "g8IglZRr"
+version = "v61aYHS7"
