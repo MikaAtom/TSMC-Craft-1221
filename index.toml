@@ -926,11 +926,6 @@ hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
 metafile = true
 
 [[files]]
-file = "mods/watermedia-platform-extension.pw.toml"
-hash = "47942d183c540a0d7c5d29bce33f72d8c4fce6e0b6187849dad4a8098d696a26"
-metafile = true
-
-[[files]]
 file = "mods/watermedia.pw.toml"
 hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
 metafile = true
