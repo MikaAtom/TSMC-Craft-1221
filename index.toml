@@ -271,6 +271,11 @@ hash = "8c13c49284e9c2f9007874916ab401799f66f5549779881ab2b9bcc57d450f13"
 metafile = true
 
 [[files]]
+file = "mods/create-jei-compat.pw.toml"
+hash = "25947bbade82915247722fa615f49f27b108a405313e43762f2c7b985e881f00"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
 metafile = true
@@ -481,6 +486,11 @@ hash = "49a15bf3a496e885d01e6dd4bf3e08158c9b5c2998027083c3248a6defbce974"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
 file = "mods/fixed-anvil-repair-cost.pw.toml"
 hash = "12e1f29bb1c44e639e5ddc02d192ad19530a5cf9bf747f470e71a59b03f7fc9f"
 metafile = true
@@ -606,6 +616,11 @@ hash = "d4c4313c98bf42f23c5483b5b9284b26ea4070c6aa039145b8163115da2af844"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "e7b3c08c8b168d15e3997d41d0480d1d35cba0bdda94094f123d1eef65d0b0c4"
+metafile = true
+
+[[files]]
 file = "mods/kogtyv-tav.pw.toml"
 hash = "49212fd55ce1e8999f67831d13ab3973ae1379a0732f50d59895481a488470ce"
 metafile = true
@@ -668,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "983d6ab9d9a7d40031f1789f5ae018cccb889832ac8ce741df60a9d8e5f42817"
 metafile = true
 
 [[files]]
@@ -768,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "723e363273ff9fea18f1d2cf0b2d469901f9c4a1f1ffdd8093fa435451deef95"
 metafile = true
 
 [[files]]
